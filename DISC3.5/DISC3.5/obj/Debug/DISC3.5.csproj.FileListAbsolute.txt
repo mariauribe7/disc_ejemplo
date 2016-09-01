@@ -1,0 +1,36 @@
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\DISC3.5.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\DISC3.5.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\DISC3.5.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Rnegocio.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Datos.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Rnegocio.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Datos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\obj\Debug\DISC3.5.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\obj\Debug\DISC3.5.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\obj\Debug\DISC3.5.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\obj\Debug\DISC3.5.csprojResolveAssemblyReference.cache
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\DISC3.5.dll.config
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\DISC3.5.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\DISC3.5.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Entidades.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Rnegocio.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Datos.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Entidades.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Rnegocio.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\bin\Datos.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\obj\Debug\DISC3.5.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\DISC3.5\obj\Debug\DISC3.5.pdb
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\DISC3.5.dll.config
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\DISC3.5.dll
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\DISC3.5.pdb
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\Entidades.dll
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\Rnegocio.dll
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\Datos.dll
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\Entidades.pdb
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\Rnegocio.pdb
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\bin\Datos.pdb
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\obj\Debug\DISC3.5.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\obj\Debug\DISC3.5.dll
+C:\Users\Desarrollo software\Source\Repos\Disc\DISC3.5\DISC3.5\obj\Debug\DISC3.5.pdb

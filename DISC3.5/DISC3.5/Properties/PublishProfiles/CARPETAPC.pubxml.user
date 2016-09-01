@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\UserPC\Documents\Visual Studio 2013\Archivos Publicados\DISC</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Datos.dll">
+      <publishTime>11/25/2015 15:53:26</publishTime>
+    </File>
+    <File Include="bin/DISC3.5.dll">
+      <publishTime>11/25/2015 16:12:27</publishTime>
+    </File>
+    <File Include="bin/Entidades.dll">
+      <publishTime>11/25/2015 15:53:25</publishTime>
+    </File>
+    <File Include="bin/Rnegocio.dll">
+      <publishTime>11/25/2015 15:53:27</publishTime>
+    </File>
+    <File Include="ConUsuario.aspx">
+      <publishTime>09/10/2015 10:42:38</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="css/business-casual.css">
+      <publishTime>08/03/2015 13:39:53</publishTime>
+    </File>
+    <File Include="css/datepicker.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="css/font-awesome.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="css/jquery-ui.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="css/landing-page.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="css/lightbox.css">
+      <publishTime>07/30/2015 08:15:51</publishTime>
+    </File>
+    <File Include="css/login.css">
+      <publishTime>07/30/2015 15:47:22</publishTime>
+    </File>
+    <File Include="css/tabla_head.css">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="DataSet1.xsc">
+      <publishTime>09/10/2015 10:41:46</publishTime>
+    </File>
+    <File Include="DataSet1.xss">
+      <publishTime>09/10/2015 10:41:46</publishTime>
+    </File>
+    <File Include="FinalUsr.aspx">
+      <publishTime>11/25/2015 16:10:25</publishTime>
+    </File>
+    <File Include="img/agradecimiento.png">
+      <publishTime>04/30/2015 08:07:24</publishTime>
+    </File>
+    <File Include="img/bg.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/btn-concienzudo.png">
+      <publishTime>08/03/2015 08:54:58</publishTime>
+    </File>
+    <File Include="img/btn-dominante.png">
+      <publishTime>08/03/2015 09:26:43</publishTime>
+    </File>
+    <File Include="img/btn-influyente.png">
+      <publishTime>08/03/2015 09:27:12</publishTime>
+    </File>
+    <File Include="img/btn-solido.png">
+      <publishTime>08/03/2015 09:27:28</publishTime>
+    </File>
+    <File Include="img/close.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/concienzudo.pdf">
+      <publishTime>08/03/2015 15:33:04</publishTime>
+    </File>
+    <File Include="img/disc.png">
+      <publishTime>05/25/2015 11:48:58</publishTime>
+    </File>
+    <File Include="img/dominante.pdf">
+      <publishTime>08/03/2015 15:33:05</publishTime>
+    </File>
+    <File Include="img/ejemplo.png">
+      <publishTime>08/03/2015 07:58:18</publishTime>
+    </File>
+    <File Include="img/ejemplo12.png">
+      <publishTime>07/30/2015 08:11:23</publishTime>
+    </File>
+    <File Include="img/Fondo-completo-in.png">
+      <publishTime>07/30/2015 15:38:39</publishTime>
+    </File>
+    <File Include="img/footer.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/influyente.pdf">
+      <publishTime>08/03/2015 15:33:06</publishTime>
+    </File>
+    <File Include="img/instruc1.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/instruc12.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/loading.gif">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/next.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/page1-img1.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/prev.png">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="img/solido.pdf">
+      <publishTime>08/03/2015 15:33:03</publishTime>
+    </File>
+    <File Include="Informe.aspx">
+      <publishTime>09/10/2015 11:15:55</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="js/jquery.quicksearch.js">
+      <publishTime>06/25/2015 12:23:18</publishTime>
+    </File>
+    <File Include="js/lightbox-plus-jquery.min.js">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="js/login.js">
+      <publishTime>07/28/2015 15:32:25</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>09/09/2015 15:51:15</publishTime>
+    </File>
+    <File Include="MenuAdm.aspx">
+      <publishTime>09/10/2015 11:12:34</publishTime>
+    </File>
+    <File Include="MenuUsr.aspx">
+      <publishTime>09/10/2015 11:04:48</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/25/2015 16:12:29</publishTime>
+    </File>
+    <File Include="Pregunta1.aspx">
+      <publishTime>11/25/2015 16:05:24</publishTime>
+    </File>
+    <File Include="Pregunta10.aspx">
+      <publishTime>09/09/2015 15:36:00</publishTime>
+    </File>
+    <File Include="Pregunta11.aspx">
+      <publishTime>09/09/2015 15:36:46</publishTime>
+    </File>
+    <File Include="Pregunta12.aspx">
+      <publishTime>09/09/2015 15:37:18</publishTime>
+    </File>
+    <File Include="Pregunta2.aspx">
+      <publishTime>11/25/2015 16:06:54</publishTime>
+    </File>
+    <File Include="Pregunta3.aspx">
+      <publishTime>09/09/2015 15:31:02</publishTime>
+    </File>
+    <File Include="Pregunta4.aspx">
+      <publishTime>11/25/2015 16:11:29</publishTime>
+    </File>
+    <File Include="Pregunta5.aspx">
+      <publishTime>09/09/2015 15:32:19</publishTime>
+    </File>
+    <File Include="Pregunta6.aspx">
+      <publishTime>09/09/2015 15:33:02</publishTime>
+    </File>
+    <File Include="Pregunta7.aspx">
+      <publishTime>09/09/2015 15:33:42</publishTime>
+    </File>
+    <File Include="Pregunta8.aspx">
+      <publishTime>09/09/2015 15:34:27</publishTime>
+    </File>
+    <File Include="Pregunta9.aspx">
+      <publishTime>09/09/2015 15:35:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/25/2015 16:12:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

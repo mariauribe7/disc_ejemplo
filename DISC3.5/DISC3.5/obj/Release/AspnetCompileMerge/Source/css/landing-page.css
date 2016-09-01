@@ -1,0 +1,175 @@
+
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+
+
+}
+
+.topnav {
+    font-size: 14px; 
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+   
+
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/header-intro.png) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web&subset=latin,latin-ext);
+@media (min-width: 768px) {
+    .onl_row-sm-offset-3 div:first-child[class*="col-"] {
+        margin-left: 25%;
+    }
+}
+
+.onl_login .onl_socialButtons .onl_btn-facebook {background: #3b5998;border-color:#172d5e}
+.onl_login .onl_socialButtons .onl_btn-twitter {background: #00aced;border-color:#043d52}
+.onl_login .onl_socialButtons .onl_btn-google-plus {background: #c32f10;border-color:#6b1301}
+.onl_login .onl_socialButtons .onl_btn-soundcloud {background: #ff8800;border-color:#c73e04}
+.onl_login .onl_socialButtons .onl_btn-github {background: #666666;border-color:#333333}
+.onl_login .onl_socialButtons .onl_btn-steam {background: #878787;border-color:#292929}
+.onl_login .onl_socialButtons .onl_btn-pinterest {background: #cc2127;border-color:#780004}
+.onl_login .onl_socialButtons .onl_btn-vimeo {background: #1ab7ea;border-color:#162221}
+.onl_login .onl_socialButtons .onl_btn-lastfm {background: #c3000d;border-color:#5e0208}
+.onl_login .onl_socialButtons .onl_btn-yahoo {background: #400191;border-color:#230052}
+.onl_login .onl_socialButtons .onl_btn-vk {background: #45668e;border-color:#1a3352}
+.onl_login .onl_socialButtons .onl_btn-spotify {background: #7ab800;border-color:#3a5700}
+.onl_login .onl_socialButtons .onl_btn-linkedin {background: #0976b4;border-color:#004269}
+.onl_login .onl_socialButtons .onl_btn-stumbleupon {background: #eb4924;border-color:#943019}
+.onl_login .onl_socialButtons .onl_btn-tumblr {background: #35465c;border-color:#142030}

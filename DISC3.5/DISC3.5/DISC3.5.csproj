@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1B3D30E2-2289-49E6-AF19-E19C94E27310}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DISC3._5</RootNamespace>
+    <AssemblyName>DISC3.5</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ConUsuario.aspx" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\business-casual.css" />
+    <Content Include="css\datepicker.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\jquery-ui.css" />
+    <Content Include="css\landing-page.css" />
+    <Content Include="css\lightbox.css" />
+    <Content Include="css\login.css" />
+    <Content Include="css\tabla_head.css" />
+    <Content Include="FinalUsr.aspx" />
+    <Content Include="img\agradecimiento.png" />
+    <Content Include="img\bg.png" />
+    <Content Include="img\btn-concienzudo.png" />
+    <Content Include="img\btn-dominante.png" />
+    <Content Include="img\btn-influyente.png" />
+    <Content Include="img\btn-solido.png" />
+    <Content Include="img\close.png" />
+    <Content Include="img\disc.png" />
+    <Content Include="img\ejemplo.png" />
+    <Content Include="img\ejemplo12.png" />
+    <Content Include="img\Fondo-completo-in.png" />
+    <Content Include="img\footer.png" />
+    <Content Include="img\instruc1.png" />
+    <Content Include="img\instruc12.png" />
+    <Content Include="img\loading.gif" />
+    <Content Include="img\next.png" />
+    <Content Include="img\page1-img1.png" />
+    <Content Include="img\prev.png" />
+    <Content Include="Informe.aspx" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\Charts.js" />
+    <Content Include="js\jquery.quicksearch.js" />
+    <Content Include="js\lightbox-plus-jquery.min.js" />
+    <Content Include="js\login.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="MenuAdm.aspx" />
+    <Content Include="MenuUsr.aspx" />
+    <Content Include="Pregunta1.aspx" />
+    <Content Include="Pregunta10.aspx" />
+    <Content Include="Pregunta11.aspx" />
+    <Content Include="Pregunta12.aspx" />
+    <Content Include="Pregunta2.aspx" />
+    <Content Include="Pregunta3.aspx" />
+    <Content Include="Pregunta4.aspx" />
+    <Content Include="Pregunta5.aspx" />
+    <Content Include="Pregunta6.aspx" />
+    <Content Include="Pregunta7.aspx" />
+    <Content Include="Pregunta8.aspx" />
+    <Content Include="Pregunta9.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConUsuario.aspx.cs">
+      <DependentUpon>ConUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConUsuario.aspx.designer.cs">
+      <DependentUpon>ConUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FinalUsr.aspx.cs">
+      <DependentUpon>FinalUsr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FinalUsr.aspx.designer.cs">
+      <DependentUpon>FinalUsr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Informe.aspx.cs">
+      <DependentUpon>Informe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Informe.aspx.designer.cs">
+      <DependentUpon>Informe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdm.aspx.cs">
+      <DependentUpon>MenuAdm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuAdm.aspx.designer.cs">
+      <DependentUpon>MenuAdm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUsr.aspx.cs">
+      <DependentUpon>MenuUsr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuUsr.aspx.designer.cs">
+      <DependentUpon>MenuUsr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta1.aspx.cs">
+      <DependentUpon>Pregunta1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta1.aspx.designer.cs">
+      <DependentUpon>Pregunta1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta10.aspx.cs">
+      <DependentUpon>Pregunta10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta10.aspx.designer.cs">
+      <DependentUpon>Pregunta10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta11.aspx.cs">
+      <DependentUpon>Pregunta11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta11.aspx.designer.cs">
+      <DependentUpon>Pregunta11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta12.aspx.cs">
+      <DependentUpon>Pregunta12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta12.aspx.designer.cs">
+      <DependentUpon>Pregunta12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta2.aspx.cs">
+      <DependentUpon>Pregunta2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta2.aspx.designer.cs">
+      <DependentUpon>Pregunta2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta3.aspx.cs">
+      <DependentUpon>Pregunta3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta3.aspx.designer.cs">
+      <DependentUpon>Pregunta3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta4.aspx.cs">
+      <DependentUpon>Pregunta4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta4.aspx.designer.cs">
+      <DependentUpon>Pregunta4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta5.aspx.cs">
+      <DependentUpon>Pregunta5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta5.aspx.designer.cs">
+      <DependentUpon>Pregunta5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta6.aspx.cs">
+      <DependentUpon>Pregunta6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta6.aspx.designer.cs">
+      <DependentUpon>Pregunta6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta7.aspx.cs">
+      <DependentUpon>Pregunta7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta7.aspx.designer.cs">
+      <DependentUpon>Pregunta7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta8.aspx.cs">
+      <DependentUpon>Pregunta8.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta8.aspx.designer.cs">
+      <DependentUpon>Pregunta8.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pregunta9.aspx.cs">
+      <DependentUpon>Pregunta9.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pregunta9.aspx.designer.cs">
+      <DependentUpon>Pregunta9.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\concienzudo.pdf" />
+    <Content Include="img\dominante.pdf" />
+    <Content Include="img\influyente.pdf" />
+    <Content Include="img\solido.pdf" />
+    <Content Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Content>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Content>
+    <None Include="Properties\PublishProfiles\CARPETAPC.pubxml" />
+    <None Include="Properties\PublishProfiles\publicarweb.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{98dec6e9-b411-4f90-ac5a-9da9a8e3b439}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Rnegocio\Rnegocio.csproj">
+      <Project>{86c0ee57-9d74-4770-9d30-6837822c4106}</Project>
+      <Name>Rnegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>40245</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:40245/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

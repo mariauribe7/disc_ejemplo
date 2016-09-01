@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Datos.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Datos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\obj\Release\Datos.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\obj\Release\Datos.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Datos.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Datos.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Entidades.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\bin\Release\Entidades.pdb
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\obj\Release\Datos.dll
+C:\Users\UserPC\Documents\Visual Studio 2013\Projects\DISC3.5\Datos\obj\Release\Datos.pdb
